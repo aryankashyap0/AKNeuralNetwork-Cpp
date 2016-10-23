@@ -16,8 +16,9 @@ To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git`
 ## To use.
 
 `
-#include <stdio.h>
-#include "AKNeuralNetwork.cpp"
+// To include
+<stdio.h>
+"AKNeuralNetwork.cpp"
 
 int main(){
     
