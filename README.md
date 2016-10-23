@@ -11,4 +11,6 @@
 * Default Data sets included for you to try!
 
 ## To Add
-To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git
+To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git'
+
+## Example How to use
