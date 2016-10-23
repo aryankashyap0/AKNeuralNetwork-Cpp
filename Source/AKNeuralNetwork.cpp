@@ -1,6 +1,6 @@
 //
-//  main.cpp
-//  AKNeuralNetwork-C++
+//  AKNeuralNetwork.cpp
+//  AKNeuralNetwork-Cpp
 //
 //  Created by Aryan Kashyap on 21/10/2016.
 //  Copyright © 2016 Aryan Kashyap. All rights reserved.
