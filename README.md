@@ -2,4 +2,10 @@
 **AKNeuralNetwork-Cpp** is a free open source lightweight and user friendly C++ library which implements multilayer artificial neural networks.
 
 ## AKNeuralNetwork-Cpp Features
-* Backpropagation training (RPROP, Quickprop, Batch, Incremental)* Backpropagation training (RPROP, Quickprop, Batch, Incremental 
+* Multilayer Artificial Neural Network Library in C++
+* Supports Forward and Back Propogation.
+* Evolving topology training
+* Easy to use (Example Below)
+* Fast
+* Easy to load Large Datasets (in the machine* The*
+
