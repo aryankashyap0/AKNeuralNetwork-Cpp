@@ -7,7 +7,7 @@
 * Evolving topology training
 * Easy to use (Example Below)
 * Fast
-* Easy to load Large Datasets (in the machine* The*
+* Easy to load Large Datasets (in the machine for now)
 * Default Data sets included for you to try!
 
 ## To Add
@@ -15,7 +15,9 @@ To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git'
 
 ## Example How to use
 
-'#include <stdio.h>
+
+'
+#include <stdio.h>
 #include "AKNeuralNetwork.cpp"
 
 int main(){
@@ -92,5 +94,4 @@ int main(){
         std::cout << "/TEST" << std::endl;
     }
     
-}
-'
+}'
