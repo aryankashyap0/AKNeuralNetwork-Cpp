@@ -22,7 +22,7 @@ To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git`
 
 int main(){
     
- TrainingData trainData("Here goes the PATH to the training data .txt file..... Example: /Users/Aryan/Desktop/out_xor.txt");
+ TrainingData trainData(" Path to the data")
     
     // e.g., { 3, 2, 1 }
     std::vector<unsigned> topology;
