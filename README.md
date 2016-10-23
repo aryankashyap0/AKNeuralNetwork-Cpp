@@ -11,4 +11,4 @@
 * Default Data sets included for you to try!
 
 ## To Add
-tot=
+To Clone: `git clone https://github.com/NSAryan12/AKNeuralNetwork-Cpp.git
