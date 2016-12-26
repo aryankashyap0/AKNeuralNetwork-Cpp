@@ -1,6 +1,8 @@
 # AKNeuralNetwork-Cpp
 **AKNeuralNetwork-Cpp** is a free open source lightweight and user friendly C++ library which implements multilayer artificial neural networks.
 
+To learn what an Artificial neural network is visit https://en.wikipedia.org/wiki/Artificial_neural_network
+
 ## AKNeuralNetwork-Cpp Features
 * Multilayer Artificial Neural Network Library in C++
 * Supports Forward and Back Propogation.
